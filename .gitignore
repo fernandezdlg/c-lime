@@ -8,3 +8,5 @@ include/lime_config_internal.h.in
 include/lime_config_internal.h.in~
 lib/Makefile.in
 autom4te.cache
+
+build*
